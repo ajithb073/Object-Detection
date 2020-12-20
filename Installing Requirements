@@ -3,3 +3,5 @@
 !pip install keras==2.2.4
 !pip install numpy==1.16.1
 !pip install imageai --upgrade
+
+Download trained "resnet50_coco_best_v2.0.1.h5" model
